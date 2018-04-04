@@ -1,2 +1,2 @@
-# IT_Assist
-This is a web application for IT department to track and maintain the IT inventory.
+# IT_Asset_Management_System
+This is a web application build for tracking and managing type, condition and usage of IT assets in the airport.
